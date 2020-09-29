@@ -1,0 +1,1 @@
+Detail <h5> {{$value}} </h5>
